@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: MicroTodo-UI
+  IMAGE_NAME: DeleteTaskTodoMicroservice
 
 jobs:
   build-and-push:
